@@ -102,19 +102,19 @@ export async function onRequest(context) {
 </head>
 <body>
   <div class="gallery-container">
-    <a href="https://strangleloweredhauled.com/rvcwwfhf7?key=c4fb489ace79adb00cc27572977dd32a" class="video-card">
+    <a href="https://advantagesblareseizure.com/y454ceg9?key=a4ea5fe372dcd2494d1f92bc8cf0eeaa" class="video-card">
       <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/raha2/refs/heads/main/1.gif"
            alt="Video 1" class="video-thumbnail">
       <div class="play-overlay"><div class="play-button"><div class="play-icon"></div></div></div>
     </a>
 
-    <a href="https://strangleloweredhauled.com/rvcwwfhf7?key=c4fb489ace79adb00cc27572977dd32a " class="video-card">
+    <a href="https://advantagesblareseizure.com/y454ceg9?key=a4ea5fe372dcd2494d1f92bc8cf0eeaa " class="video-card">
       <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/4.gif"
            alt="Video 2" class="video-thumbnail">
       <div class="play-overlay"><div class="play-button"><div class="play-icon"></div></div></div>
     </a>
 
-    <a href="https://strangleloweredhauled.com/rvcwwfhf7?key=c4fb489ace79adb00cc27572977dd32a" class="video-card">
+    <a href="https://advantagesblareseizure.com/y454ceg9?key=a4ea5fe372dcd2494d1f92bc8cf0eeaa" class="video-card">
       <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/6.gif"
            alt="Video 3" class="video-thumbnail">
       <div class="play-overlay"><div class="play-button"><div class="play-icon"></div></div></div>
